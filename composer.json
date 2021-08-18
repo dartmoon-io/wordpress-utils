@@ -1,0 +1,16 @@
+{
+    "name": "dartmoon/dartmoon-wordpress-utils",
+    "description": "Some general functions for wordpress",
+    "type": "wordpress-muplugin",
+    "license": "PROPRIETARY",
+    "authors": [
+        {
+            "name": "Dartmoon",
+            "email": "hello@dartmoon.io",
+            "homepage": "https://dartmoon.io"
+        }
+    ],
+    "require": {
+        "composer/installers": "^1.0"
+    }
+}
