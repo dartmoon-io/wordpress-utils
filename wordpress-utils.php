@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name:  Dartmoon WordPress utils 
+ * Plugin Name:  Dartmoon WordPress Utils 
  * Plugin URI:   https://dartmoon.io
  * Description:  Some general functions for wordpress
  * Version:      1.0.1
  * Author:       Dartmoon
  * Author URI:   https://dartmoon.io
- * License:      PROPRIETARY
+ * License:      MIT
  */
 
 /**
