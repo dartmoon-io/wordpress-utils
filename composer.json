@@ -1,5 +1,5 @@
 {
-    "name": "dartmoon/dartmoon-wordpress-utils",
+    "name": "dartmoon/wordpress-utils",
     "description": "Some general functions for wordpress",
     "type": "wordpress-muplugin",
     "license": "PROPRIETARY",
