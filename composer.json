@@ -2,7 +2,7 @@
     "name": "dartmoon/wordpress-utils",
     "description": "Some general functions for wordpress",
     "type": "wordpress-muplugin",
-    "license": "PROPRIETARY",
+    "license": "MIT",
     "authors": [
         {
             "name": "Dartmoon",
